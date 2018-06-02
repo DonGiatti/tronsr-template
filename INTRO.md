@@ -6,7 +6,9 @@ DON GIATTI was founded by two Swiss: Philippe Ake Ott and Leon Mehlau with a pas
 
 DON GIATTI is pure Swiss – from founders over production to bottling all located in the small town of Winterthur near Zurich.
 
-DON GIATTI is sold internationally, foremost in Switzerland, Germany, and Thailand.  
+DON GIATTI is sold internationally, foremost in Switzerland, Germany, and Thailand.
+
+
 
 Where we go
 
