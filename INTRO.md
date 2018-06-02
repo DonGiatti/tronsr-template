@@ -16,7 +16,7 @@ Where we go
 
 - Teaming up with TRON and helping to extend TRON's network and TRON's real world presence.
 
-- Launch of new product line TRON GIATTI, a limited edition liqueur as an homage to TRON Foundation and its community (see following page).
+- Launch of new product line TRON GIATTI, a limited edition liqueur as an homage to TRON Foundation and its community.
 
 - Building  a strong community and showing the world what opportunities and possibilities TRON has to offer.
 
