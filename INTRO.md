@@ -8,7 +8,7 @@ DON GIATTI is pure Swiss – from founders over production to bottling all locat
 
 DON GIATTI is sold internationally, foremost in Switzerland, Germany, and Thailand.
 
-//
+
 
 Where we go
 
