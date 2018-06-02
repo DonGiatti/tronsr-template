@@ -1,6 +1,6 @@
 The estimated budget spent before 26th June is around 18’000$ for corresponding hardware for main node and test node. After 26th June we planned our rewards distribution as follows:
 
-- 45% given back to TRON community, irrespective of the market value per TRX (see “Annual Community Support Plan” for details).
+- 45% given back to TRON community, irrespective of the market value per TRX:
 
   - 40% for voters as an incentive for voting
   - 2.5% for rewards for shopping at a local store (worldwide) and at our DON GIATTI online store
