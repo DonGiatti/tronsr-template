@@ -6,8 +6,9 @@ Server configuration before 26th June:
 
 - As a test node environment, we will provide a setup as following for providing the first blocks: r4.xlarge 4 core 30GB memory 50GB SSD storage (EBS) 10G bandwidth (EU (Frankfurt)) 
 
+//
 
-Plans for Hardware Expansion as TRON SR
+Plans for Hardware Expansion as TRON SR:
 
 - Further Expansion (July 2018): Adding a second main node with corresponding backup: 
 x1.16xlarge 64 core 1T memory 1T SSD storage (EBS) 25G bandwidth
