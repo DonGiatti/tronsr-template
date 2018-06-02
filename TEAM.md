@@ -5,3 +5,6 @@ Philippe is a scientist who holds a Master’s degree in geo informatics and rem
 Simon: Investment Manager
 
 Simon is an economist who holds a Master’s degree from a top Scandinavian business university. Having worked in the finance industry for several years, it is no wonder that he got infected with the blockchain virus early on. At DON GIATTI Simon is responsible for managing all finance related questions. He is entrepreneurially driven and has a passion for financial markets.
+
+http://www.dongiatti.com/en/don-goes-tron
+
