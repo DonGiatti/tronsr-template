@@ -1,5 +1,13 @@
-In summer 2013 DON GIATTI hit the market and established itself as one of the most popular liqueur brands with a high reputation, especially in Winterthur (Switzerland). The DON GIATTI Original Liqueur is produced by a young, innovative and independent beverage company rooted in the greater Zurich area in the heart of Switzerland. This is where the premium liqueur is bottled and distributed globally.
+What we do
 
+DON GIATTI stands for a sophisticated liqueur based on Swiss ingredients.
+DON GIATTI was founded by two Swiss: Philippe Ake Ott and Leon Mehlau with a passion for innovative product engineering. We                  firmly believe that the only keys to success are human capital and passion.
+DON GIATTI is pure Swiss – from founders over production to bottling all located in the small town of Winterthur near Zurich.
+DON GIATTI is sold internationally, foremost in Switzerland, Germany, and Thailand.  
 
+Where we go
 
-In order to give our customers the best possible shopping experience, we have been accepting crypto currencies as a means of payment in our online store since almost one year now. And as chance would have it, DON GIATTI's founders have also been early investors in TRON Foundation and its crypto currency TRX. Convinced of TRON Foundation's enormous potential within the crypto sphere and beyond, we not only intend to leverage the DON GIATTI brand via TRON's platform, but also to contribute to TRON's own success through community engagement and promotion of the TRON brand.
+Strengthening our global presence by leveraging existing and new networks.
+Teaming up with TRON and helping to extend TRON's network and TRON's real world presence.
+Launch of new product line TRON GIATTI, a limited edition liqueur as an homage to TRON Foundation and its community (see following page).
+Building  a strong community and showing the world what opportunities and possibilities TRON has to offer.
