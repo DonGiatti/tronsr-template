@@ -2,7 +2,7 @@
 
 - Ever since our first investment in TRX we have been looking for answers to our TRON and crypto related questions via social media pages such as Twitter or Reddit. However, especially in the course of our application for the SR elections, we have repeatedly been unable to find the information we were looking for. Therefore, we want to support the TRON community by creating a central and well-structured online hub for all TRON and general basic crypto related information.
 
-- In addition, all regular DON GIATTI bottles will support TRON. The TRON logo will beapplied on every bottle and a TRX reward program for the buyer will be implemented.
+- In addition, all regular DON GIATTI bottles will support TRON. The TRON logo will be applied on every bottle and a TRX reward program for the buyer will be implemented.
 
 - In 2013 we established the company and created the two accounts (Facebook and Instagram) where we post relevant information about our product and events about DON GIATTI.
 
