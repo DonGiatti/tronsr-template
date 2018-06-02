@@ -10,7 +10,7 @@ Below is our website and social media presence:
 
 https://www.dongiatti.com/en
 
-https://wwww.twitter.com/TRONGIATTI
+https://www.twitter.com/TRONGIATTI
 
 https://www.instagram.com/dongiatti/
 
