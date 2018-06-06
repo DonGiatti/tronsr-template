@@ -1,3 +1,5 @@
+This is our testable node/witness (35.180.87.235) (Paris)
+
 Server configuration before 26th June:
 
 - This setup for main node will start running in June, providing the first blocks: x1.16xlarge 64 core 1T memory 20T SSD storage (EBS) 25G bandwidth (EU (Frankfurt)), in combination with failover scripting as well as Anti-Ddos via AWS Shield, to provide a stable and secure environment for the main node.
