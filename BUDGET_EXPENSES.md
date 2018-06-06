@@ -2,7 +2,8 @@ The estimated budget spent before 26th June is around 18’000$ for correspondin
 
 - 50% given back to TRON community, irrespective of the market value per TRX:
 
-  - 45% for voters as an incentive for voting
+  - 45% for voters as an incentive for voting. We intend to payout the voters daily. In addition, the reward distribution
+    is relative to votes cast, i.e. the more votes you give us relative to other voters, the more TRX you'll receive.
   - 2.5% for rewards for shopping at a local store (worldwide) and at our DON GIATTI online store
   - 2.5% will go into the TRON GIATTI Foundation. In general, funds can be requested for blockchain based projects and for sponsoring events to promote TRON.
   
