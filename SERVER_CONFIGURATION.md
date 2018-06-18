@@ -1,4 +1,4 @@
-This is our testable node/witness (35.180.118.36:50051) (Paris)
+This is our testable node/witness (35.180.118.245:50051) (Paris)
 
 Server configuration before 26th June:
 
